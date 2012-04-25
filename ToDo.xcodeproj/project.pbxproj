@@ -298,6 +298,7 @@
 		2DCE48531539D9EE0091DD5D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ToDo/ToDo-Prefix.pch";
 				INFOPLIST_FILE = "ToDo/ToDo-Info.plist";
@@ -309,6 +310,7 @@
 		2DCE48541539D9EE0091DD5D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ToDo/ToDo-Prefix.pch";
 				INFOPLIST_FILE = "ToDo/ToDo-Info.plist";
